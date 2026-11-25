@@ -1,0 +1,8 @@
+{
+  "name": "CampusScene 30",
+  "description": "Turn English expressions learned from movies into a 30-second animated cafe scene with natural English voices, subtitles, and an interactive quiz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
